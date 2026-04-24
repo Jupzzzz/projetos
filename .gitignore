@@ -1,0 +1,11 @@
+# Executáveis (gerados por C)
+atividade_struct
+sort_visualizer
+
+# Pasta do Codex
+.codex/
+
+# (opcional, mais profissional)
+# arquivos de build
+*.o
+*.out
